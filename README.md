@@ -1,2 +1,1 @@
-# Abacus-Academy-Admission
-Frontend in React js
+# Abacus-Academy-Admission Portal
